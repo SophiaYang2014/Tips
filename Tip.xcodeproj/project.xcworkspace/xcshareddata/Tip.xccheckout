@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B2B6120-37B7-4D60-8573-C72DF1C705C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tip</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F96D8C0211E8227AF27430B77B79DEA898A0430</key>
+		<string>https://github.com/SophiaYang2014/Tips_Sophia.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tip.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F96D8C0211E8227AF27430B77B79DEA898A0430</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SophiaYang2014/Tips_Sophia.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3F96D8C0211E8227AF27430B77B79DEA898A0430</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F96D8C0211E8227AF27430B77B79DEA898A0430</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tips_Sophia</string>
+		</dict>
+	</array>
+</dict>
+</plist>
